@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Datodiya  
 
-<!--
-**VishalDatodiya/VishalDatodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python Backend Developer | 4+ Yrs Experience**  
+Skilled in building **Design and Develop APIs and Software** using Python, Django, DRF, Flask, FastAPI, SQL, Docker.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tech Stack  
+Python | Django | DRF | Flask | FastAPI | SQL | PostgreSQL | MySQL | Docker | AWS | Celery | Redis | Git  
+
+---
+
+## 🔹 Featured Projects  
+- **E-learning Platform** – 30+ APIs | DRF | Celery | Redis | JWT Auth |
+- **Role_based_Todo** –  Python | DRF | JWT Auth | CronJob | Email Notifier
+  
+---
+
+📫 **Reach me:** vishdatodiya12@gmail.com | [LinkedIn](https://linkedin.com/in/vishal-datodiya)  
